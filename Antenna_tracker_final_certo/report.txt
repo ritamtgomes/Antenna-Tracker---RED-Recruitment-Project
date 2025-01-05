@@ -1,0 +1,40 @@
+Info: Processing symbol 'C1:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C2:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C3:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C4:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C5:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C6:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C7:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C8:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C9:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C10:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C11:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C12:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C15:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C16:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'D1:LED_SMD:LED_1206_3216Metric'.
+Info: Processing symbol 'D2:Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'D3:Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'IC1:SamacSys_Parts:SOTFL50P160X60-6N'.
+Info: Processing symbol 'J1:Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Horizontal'.
+Info: Processing symbol 'J2:Connector_AMASS:AMASS_XT30UPB-F_1x02_P5.0mm_Vertical'.
+Info: Processing symbol 'J3:Connector_Coaxial:U.FL_Molex_MCRF_73412-0110_Vertical'.
+Info: Processing symbol 'J4:Connector_PinSocket_2.54mm:PinSocket_2x08_P2.54mm_Vertical_SMD'.
+Info: Processing symbol 'L1:Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder'.
+Info: Processing symbol 'L2:Inductor_SMD:L_Vishay_IHLP-2020'.
+Info: Processing symbol 'R3:Resistor_SMD:R_1206_3216Metric'.
+Info: Processing symbol 'R4:Resistor_SMD:R_1206_3216Metric'.
+Info: Processing symbol 'R6:Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder'.
+Info: Processing symbol 'R8:Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder'.
+Info: Processing symbol 'SW1:Button_Switch_SMD:SW_Push_1P1T_NO_CK_KSC6xxJ'.
+Info: Processing symbol 'U1:RF_Module:ESP32-C3-WROOM-02'.
+Info: Processing symbol 'U2:RF_GPS:ublox_NEO'.
+Info: Processing symbol 'U3:Package_TO_SOT_SMD:SOT-223-3_TabPin2'.
+Reconnected U1 pin 13 from Net-(J5-D-) to unconnected-(U1-IO18-Pad13).
+Add net unconnected-(U1-IO19-Pad14).
+Reconnected U1 pin 14 from Net-(J5-D+) to unconnected-(U1-IO19-Pad14).
+Changed U1 value from ESP32-C3-WROOM-02 to ESP32-C3 SoC.
+Add net unconnected-(U1-IO18-Pad13).
+
+
+Info: Total warnings: 0, errors: 0.
