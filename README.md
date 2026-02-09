@@ -1,4 +1,4 @@
-# Antenna Tracker ESP32
+# ESP32 Antenna Tracker
 
 ## Overview
 This project is a **PCB-based antenna tracker** originally developed as a recruitment project for the **Rocket Experiment Division (RED)** at Instituto Superior Técnico. 
@@ -6,10 +6,10 @@ This project is a **PCB-based antenna tracker** originally developed as a recrui
 The system is designed to track a flying rocket in real time and orient an antenna towards it, minimizing telemetry loss during launches and flight operations. Tracking is achieved by computing the relative azimuth and elevation angles between the ground station and the rocket, and actuating two servo motors accordingly.
 
 ## System Architecture
-1 - The rocket transmits its position to the ground station
-2 - The tracker’s local GPS module provides its own position
-3 - The ESP32 computes Azimuth amd Elevation and converts these angles into PWM signals
-4 - The two servo motors rotate the antenna to maintain alignment with the rocket
+1. The rocket transmits its position to the ground station
+2. The tracker’s local GPS module provides its own position
+3. The ESP32 computes Azimuth amd Elevation and converts these angles into PWM signals
+4. The two servo motors rotate the antenna to maintain alignment with the rocket
 
 ## Hardware Specifications
 
