@@ -23,7 +23,7 @@ The system is designed to track a flying rocket in real time and orient an anten
 
 ### PCB
 - Designed in KiCad
-- Dimensions: 76 × 56 mm
+- Dimensions: 75 × 55 mm
 - All components placed on the top layer
 
 ## Current Status
